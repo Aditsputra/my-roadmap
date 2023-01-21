@@ -1,14 +1,14 @@
 RoadMap :
 - INTERNET
-  //apa itu internet
-  //bagaimana cara kerja internet
-  //bagaimana cara kerja browser
+  //apa itu internet !
+  //bagaimana cara kerja internet !
+  //bagaimana cara kerja browser !
   //apa itu DNS dan bagaimana cara kerjanya
   //apa itu domain
   //apa itu hosting
  
  - BAHASA
-  //PHP
+  //PHP !
   //JavaScript
   
  - VCS
