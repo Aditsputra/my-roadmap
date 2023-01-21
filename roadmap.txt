@@ -1,5 +1,5 @@
 RoadMap :
-- Internet
+- INTERNET
   //apa itu internet
   //bagaimana cara kerja internet
   //bagaimana cara kerja browser
@@ -7,6 +7,12 @@ RoadMap :
   //apa itu domain
   //apa itu hosting
  
- - Bahasa
+ - BAHASA
   //PHP
   //JavaScript
+  
+ - VCS
+  //Git
+  
+ - RHS
+  //GitHub
