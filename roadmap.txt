@@ -1,0 +1,12 @@
+RoadMap :
+- Internet
+  //apa itu internet
+  //bagaimana cara kerja internet
+  //bagaimana cara kerja browser
+  //apa itu DNS dan bagaimana cara kerjanya
+  //apa itu domain
+  //apa itu hosting
+ 
+ - Bahasa
+  //PHP
+  //JavaScript
